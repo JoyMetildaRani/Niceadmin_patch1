@@ -1,0 +1,13 @@
+.home{
+    display: flex;
+}
+
+.widget{
+    display: flex;
+    padding: 10px;
+    
+    
+}
+.sidewid{
+   width: 30%;
+}

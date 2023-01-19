@@ -1,0 +1,125 @@
+.topbar{
+    width:95%;
+    height: auto;
+    background-color: white;
+    position: sticky;
+    top: 0;
+}
+
+.topbarwrapper{
+    height: 100%;
+    padding: 0px 5px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.butt{
+    position: relative;
+    left:-50px;
+}
+
+.logo{
+
+    font-size: 28px;
+    color: #012970;
+    margin: 3%;
+    font-weight: 500;
+  
+}
+
+
+
+.topBarIconContainer{
+     display: flex;
+   margin-right: 8%;
+   margin-top: 5%;
+}
+.topRight{
+    display: flex;
+    align-items: center;
+    width: 17%;
+    height: 17%;
+    cursor: pointer;
+}
+.topIconBag1{
+    width: 19px;
+    height: 19px;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    top: -5px;
+    right: 15px;
+    display: flex;
+    color: white;
+    border-radius: 35%;
+    background-color: #198754;
+    font-size: 13px;
+}
+.topIconBag{
+    width: 19px;
+    height: 19px;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    top: -2px;
+    right: 20px;
+    display: flex;
+    color: white;
+    border-radius: 35%;
+    background-color: #0d6efd;
+    font-size: 13px;
+}
+
+
+.topAvatar{
+    width:40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-top: 3%;
+}
+
+
+.namecontainer{
+    display: flex;
+    margin: 8%;
+}
+
+.topLeftIconContainer{
+    display: flex;
+    margin-right: 70%;
+}
+.topLeft{
+    display: flex;
+    align-items: center;
+    width: 15%;
+    height: 15%;
+    cursor: pointer;
+}
+
+.image{
+    width: 20%;
+    height: 20%;
+    margin-top: 7%;
+}
+
+.search{
+    display: flex;
+    
+}
+
+#searchbox{
+ margin-left: 5%;
+ width: 350px;
+ height: 35px;
+}
+
+.searchicon{
+    position: relative;
+    margin-left: -30px;
+    top:8px
+}
+.name{
+    color: #163b7c;
+    font-weight: 500;
+}

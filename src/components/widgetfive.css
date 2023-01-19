@@ -1,0 +1,17 @@
+#chart{
+  
+        display: block;
+        justify-content: space-between;
+        width: 69%;
+        padding: 5px;
+        margin-top: 20px;
+        box-shadow: 7px 0px 15px -3px rgba(0,0,0,0.1);
+        color:  #1e3072;
+    
+}
+
+.topic{
+        align-items: left;
+        justify-content: left;
+        margin-left: -750px;
+}
